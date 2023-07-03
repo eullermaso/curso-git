@@ -1,0 +1,1 @@
+console.log("Cadastro criado com sucesso")
